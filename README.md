@@ -1,6 +1,15 @@
-# Harvard-Mathematics
+# Mirror Tang 的数学博客
+<p align="center">
+  <img src="https://github.com/mirrorzk/math/blob/master/logo.png" />
+</p>
 
-## 数学课程
+## 研究
+
+####  [Helfgott三元哥德巴赫证明中小弧界的严格计算重建](https://hackmd.io/@7C7W0vM5Ql2UqkP2SwnA8A/Proof-of-Ternary-Goldbach)
+
+我在 Helfgott 2014 年三素数定理证明的基础上,对其中 minor-arc（边缘弧）的部分显式常数体系进行了重构,把分散在多条不等式里的显式常数重新整理成一个一维上确界问题的结构. 通过这种重写,所有 minor-arc 的贡献都被明确写成显式函数,其最大值决定最终的常数. 再利用尾部单调性和区间算术的方法,可以把原本依赖人工估算的步骤,变成可验证复现的数值证书. 这项工作的核心目标是把原本复杂且难以完全核查的常数估计整理成一个可以机器验证的完整体系,揭示了在固定参数下限制阈值下降的主要瓶颈在哪里. 
+
+## 作业
 
 #### 大学代数
 
